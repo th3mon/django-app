@@ -23,3 +23,15 @@ pipenv install
 ```sh
 phyton {file_name.py}
 ```
+
+## Generate Django project
+
+```sh
+django-admin startproject vidly .
+```
+
+## Generate Django app
+
+```sh
+python manage.py startapp movies
+```
