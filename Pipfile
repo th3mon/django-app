@@ -8,6 +8,7 @@ django = "*"
 pylint-django = "*"
 django-stubs = "*"
 django-stubs-ext = "*"
+django-tastypie = "*"
 
 [dev-packages]
 
