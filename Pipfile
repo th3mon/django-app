@@ -9,6 +9,7 @@ pylint-django = "*"
 django-stubs = "*"
 django-stubs-ext = "*"
 django-tastypie = "*"
+whitenoise = "*"
 
 [dev-packages]
 
