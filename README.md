@@ -35,3 +35,11 @@ django-admin startproject vidly .
 ```sh
 python manage.py startapp movies
 ```
+
+## Links
+
+- https://whitenoise.readthedocs.io/en/latest/
+- https://django-tastypie.readthedocs.io/en/latest/tutorial.html
+- https://getbootstrap.com/docs/5.3/components/navbar/
+- https://pypi.org/project/beautifulsoup4/
+- https://www.djangoproject.com/
