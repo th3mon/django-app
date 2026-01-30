@@ -1,6 +1,6 @@
 # Vidly Django App
 
-Mine experiments with Phyton using Code with Mosh course.
+Mine experiments with Python using Code with Mosh course.
 
 ## Select virtual env
 
